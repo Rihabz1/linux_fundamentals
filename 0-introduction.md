@@ -73,9 +73,19 @@ A complete Linux system includes:
 
 Linux is used across the entire spectrum of computing:
 - **Individuals**: Privacy-conscious users, developers, and tech enthusiasts
-- **Enterprises**: Major corporations rely on Linux for mission-critical operations
-- **Governments**: Many government agencies worldwide use Linux for security and cost reasons
-- **Educational Institutions**: Universities and research facilities leverage Linux for teaching and research
+DevOps Engineers – for CI/CD pipelines, automation, container orchestration, and server management
+
+Cloud Engineers – Linux powers most cloud virtual machines on AWS, Azure, and Google Cloud
+
+Site Reliability Engineers (SREs) – for monitoring, scaling, and maintaining highly available systems
+
+Cybersecurity Professionals – for penetration testing, server hardening, and security monitoring
+
+System Administrators – to manage servers, networks, users, and services
+
+Backend & Platform Engineers – to deploy and maintain scalable applications
+
+Data Engineers – for big data platforms and distributed systems
 - **Tech Giants**: Google, Facebook, Amazon, and Netflix run their infrastructure on Linux
 
 ## Getting Started

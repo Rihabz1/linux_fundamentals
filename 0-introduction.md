@@ -5,6 +5,8 @@
 
 Linux is a free, open-source operating system that has become one of the most influential pieces of software in computing history. Created by Linus Torvalds in 1991 as a personal project, Linux began as just a kernel—the core component that manages hardware and system resources. Today, it powers everything from smartphones to supercomputers.
 
+<img width="515" height="364" alt="5b9a2b14-1581-46d0-a626-383b0954dccd" src="https://github.com/user-attachments/assets/c5934737-bc3b-4a7d-b1c0-b7c2f994763d" />
+
 Unlike proprietary operating systems, Linux is built on the principle of collaborative development. Thousands of developers and organizations worldwide contribute to its ongoing evolution, making it robust, secure, and constantly improving.
 
 ## Understanding Linux Distributions

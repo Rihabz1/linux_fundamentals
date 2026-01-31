@@ -71,22 +71,17 @@ A complete Linux system includes:
 
 ## Who Uses Linux?
 
-Linux is used across the entire spectrum of computing:
-- **Individuals**: Privacy-conscious users, developers, and tech enthusiasts
-DevOps Engineers – for CI/CD pipelines, automation, container orchestration, and server management
+Linux is the backbone of modern infrastructure and is widely used by technical roles across DevOps and cloud ecosystems:
 
-Cloud Engineers – Linux powers most cloud virtual machines on AWS, Azure, and Google Cloud
+- **DevOps Engineers** – for CI/CD pipelines, automation, container orchestration, and server management  
+- **Cloud Engineers** – Linux powers most virtual machines on AWS, Azure, and Google Cloud  
+- **Site Reliability Engineers (SREs)** – for monitoring, scaling, and maintaining highly available systems  
+- **Cybersecurity Professionals** – for penetration testing, server hardening, and security monitoring  
+- **System Administrators** – to manage servers, users, services, and networking  
+- **Backend & Platform Engineers** – to deploy and maintain scalable backend applications  
+- **Data Engineers** – for big data platforms and distributed data processing  
 
-Site Reliability Engineers (SREs) – for monitoring, scaling, and maintaining highly available systems
-
-Cybersecurity Professionals – for penetration testing, server hardening, and security monitoring
-
-System Administrators – to manage servers, networks, users, and services
-
-Backend & Platform Engineers – to deploy and maintain scalable applications
-
-Data Engineers – for big data platforms and distributed systems
-- **Tech Giants**: Google, Facebook, Amazon, and Netflix run their infrastructure on Linux
+Additionally, **major technology companies** such as **Google, Amazon, Facebook, and Netflix** run the majority of their infrastructure on Linux.
 
 ## Getting Started
 
